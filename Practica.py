@@ -11,3 +11,6 @@ def menor(A, B, C):
 
 def mayor(A, B):
     return max(A, B)
+
+def mayor_3(A, B,C):
+    return max(A, B, C)
